@@ -6,6 +6,21 @@
     <description>Recent content in Tags on chrisjlocke</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2025 20:13:12 +0100</lastBuildDate>
     <atom:link href="https://chrisjlocke.github.io/web1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database</title>
+      <link>https://chrisjlocke.github.io/web1/tags/database/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sqlite</title>
+      <link>https://chrisjlocke.github.io/web1/tags/sqlite/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/tags/sqlite/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on chrisjlocke</title>
+    <link>https://chrisjlocke.github.io/web1/tags/database/</link>
+    <description>Recent content in Database on chrisjlocke</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2025 20:13:12 +0100</lastBuildDate>
+    <atom:link href="https://chrisjlocke.github.io/web1/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sqlite sample</title>
+      <link>https://chrisjlocke.github.io/web1/posts/sqlite-sample1/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/posts/sqlite-sample1/</guid>
+      <description>this is a summary</description>
+    </item>
+  </channel>
+</rss>
