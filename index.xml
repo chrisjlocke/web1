@@ -17,17 +17,24 @@
     </item>
     <item>
       <title>First Post</title>
-      <link>https://chrisjlocke.github.io/web1/posts/dfr/gh/</link>
-      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
-      <guid>https://chrisjlocke.github.io/web1/posts/dfr/gh/</guid>
-      <description>A post</description>
-    </item>
-    <item>
-      <title>First Post</title>
       <link>https://chrisjlocke.github.io/web1/posts/first-post/</link>
       <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
       <guid>https://chrisjlocke.github.io/web1/posts/first-post/</guid>
       <description>this is a summary</description>
+    </item>
+    <item>
+      <title>First Post zxcg</title>
+      <link>https://chrisjlocke.github.io/web1/posts/zxc/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/posts/zxc/</guid>
+      <description>this is a summary</description>
+    </item>
+    <item>
+      <title>First Post1</title>
+      <link>https://chrisjlocke.github.io/web1/posts/dfr/gh/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/posts/dfr/gh/</guid>
+      <description>A postr</description>
     </item>
   </channel>
 </rss>
