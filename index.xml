@@ -6,15 +6,8 @@
     <description>Recent content on chrisjlocke</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 09:13:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 20:24:08 +0100</lastBuildDate>
     <atom:link href="https://chrisjlocke.github.io/web1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jethro - Gold Star Hearing Dog</title>
-      <link>https://chrisjlocke.github.io/web1/posts/jethro/</link>
-      <pubDate>Sat, 10 May 2025 09:13:12 +0100</pubDate>
-      <guid>https://chrisjlocke.github.io/web1/posts/jethro/</guid>
-      <description>Jethro is a hearing dog, awarded the gold star for achievement</description>
-    </item>
     <item>
       <title>About</title>
       <link>https://chrisjlocke.github.io/web1/about/</link>
@@ -30,6 +23,13 @@
       <description>this is a summary</description>
     </item>
     <item>
+      <title>Spotlight Image Copier</title>
+      <link>https://chrisjlocke.github.io/web1/programs/spotlight-image-copier/</link>
+      <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/programs/spotlight-image-copier/</guid>
+      <description>this is a summary</description>
+    </item>
+    <item>
       <title>sqlite sample</title>
       <link>https://chrisjlocke.github.io/web1/posts/sqlite-sample1/</link>
       <pubDate>Sat, 03 May 2025 20:13:12 +0100</pubDate>
@@ -42,6 +42,13 @@
       <pubDate>Fri, 02 May 2025 20:13:12 +0100</pubDate>
       <guid>https://chrisjlocke.github.io/web1/posts/dfr/gh/</guid>
       <description>A postr</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://chrisjlocke.github.io/web1/sqlite/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chrisjlocke.github.io/web1/sqlite/download/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

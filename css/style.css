@@ -59,8 +59,8 @@
 
   footer {
     background: var(--footer-bg);
-    border-top: 1px solid #ddd;
-    display: flex;
+    border-top: 2px solid #ddd;
+    display: none;
     align-items: center;
     padding: 0.75rem;
     position: sticky;
@@ -82,3 +82,30 @@
   ul.recent-posts li {
     margin-bottom: 1em;
   }
+
+  table {
+    width: auto;
+    max-width: 800px;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 1rem;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #d1d0d0;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #ffffff; /* White for the even rows */
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: #f1f1f1;
+  }
+
